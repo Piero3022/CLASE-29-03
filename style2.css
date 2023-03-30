@@ -5,6 +5,48 @@ body{
 header{
 
     font-family: cursive;
+
+}
+
+
+
+.intro{
+
+    position:absolute;
+
+
+
+}
+
+form{
+
+    font-family: cursive;
+    margin: auto;
+    width: auto;
+    position:absolute;
+    padding: 0.5em;
+    border: 2px solid blue;
+    border-radius: 2em;
+    background-color: white;
+    
+}
+
+ul{
+    list-style: none;
+
+}
+
+input,textarea{
+    font-family: cursive;
+    border: 2px solid blue;
+    border-radius: 0.3em;
+    width: 80%;
+}
+
+.button{
+    background-color:blue;
+    color:white;
+
 }
 
 .primer{

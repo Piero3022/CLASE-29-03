@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    }
+
+body{
+
+    width: 800px;
+    height: 400px;;
+    background-color:chocolate;
+    padding: auto;
+    
+    
+}
+h1{
+    width: 700px;
+    height: 300px;
+    border: 4px solid black;
+    font-size: 10px;
+    text-align: center;
+    padding: 6em;
+    margin: 0 auto;
+    display: block;
+    position:relative;
+    background-color: aqua;
+    
+}
+div{
+    width: 200px;
+    height: 100px;
+    background-color: lightseagreen;
+    margin: 3em;
+    border: 6px solid blue ;
+    
+
+
+}
+article{
+    width: 100px;
+    height: 100px;
+    border: 3px solid black;
+    padding-bottom: 5em;
+    background-color: cornflowerblue;
+    margin: 2em 3em;
+    display: inline;
+}
+
